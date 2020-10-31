@@ -1,0 +1,10 @@
+D:\行人检测项目\PedestrianSensingRadar\PedestrianSensingRadar\bin\Debug\PedestrianSensingRadar.exe
+D:\行人检测项目\PedestrianSensingRadar\PedestrianSensingRadar\bin\Debug\PedestrianSensingRadar.exe.config
+D:\行人检测项目\PedestrianSensingRadar\PedestrianSensingRadar\obj\Debug\PedestrianSensingRadar.Frm_main.resources
+D:\行人检测项目\PedestrianSensingRadar\PedestrianSensingRadar\obj\Debug\PedestrianSensingRadar.Properties.Resources.resources
+D:\行人检测项目\PedestrianSensingRadar\PedestrianSensingRadar\obj\Debug\PedestrianSensingRadar.csproj.GenerateResource.cache
+D:\行人检测项目\PedestrianSensingRadar\PedestrianSensingRadar\obj\Debug\PedestrianSensingRadar.exe
+D:\行人检测项目\PedestrianSensingRadar\PedestrianSensingRadar\obj\Debug\PedestrianSensingRadar.pdb
+D:\行人检测项目\PedestrianSensingRadar\PedestrianSensingRadar\bin\Debug\PedestrianSensingRadar.pdb
+D:\行人检测项目\PedestrianSensingRadar\PedestrianSensingRadar\obj\Debug\PedestrianSensingRadar.csprojAssemblyReference.cache
+D:\行人检测项目\PedestrianSensingRadar\PedestrianSensingRadar\obj\Debug\PedestrianSensingRadar.MessageCenter.resources
